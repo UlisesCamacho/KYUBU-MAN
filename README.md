@@ -1,2 +1,2 @@
 # KYUBU-MAN
-DEVELOPED IN: C
+Proyecto para la meteria de Estructuras De Datos y Algortimos A
